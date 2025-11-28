@@ -14,8 +14,6 @@ This repository contains the **basic Bootstrap classwork** completed during the 
 ---
 
 
----
-
 ## Features Implemented
 
 1. **Responsive Navbar**
@@ -43,8 +41,7 @@ This repository contains the **basic Bootstrap classwork** completed during the 
 ---
 
 ## How to Use
-
-1. Clone the repository:
+Clone the repository:
 ```bash
 git clone https://github.com/rishhabhsingh/BootStrap_SDAC_CW01.git
 
