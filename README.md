@@ -45,7 +45,3 @@ Clone the repository:
 ```bash
 git clone https://github.com/rishhabhsingh/BootStrap_SDAC_CW01.git
 
-=======
-# BootStrap_SDAC_CW01
-this is nothing but codes of SDAC's bootstrap classwork 01
-
